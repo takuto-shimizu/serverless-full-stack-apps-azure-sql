@@ -1,3 +1,4 @@
+# azure sql database template
 name: 'Deploy Azure SQL Database schema'
 
 on:
